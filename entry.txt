@@ -1,0 +1,1 @@
+I opened the intern's pull request planning to rewrite his clumsy loop; his one comment showed my API was the bug, so I merged his three lines and quietly deleted mine.
